@@ -137,6 +137,8 @@ namespace FTP01
             ////}
             #endregion
 
+            /*test*/
+
             #region Retrive files
             /* 02-1. Retrive target files */
             //FTPConnection myftp = new FTPConnection("ftp://ftp01.newegg.com/", "nakamai", "SU#&pYU8Zd");
