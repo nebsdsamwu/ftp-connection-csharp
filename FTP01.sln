@@ -1,7 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTP01", "FTP01\FTP01.csproj", "{37827E7E-ADD0-4600-B1AE-1A07BC2DD77D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP_Labs", "ASP_Labs", "{51084719-8EDA-4E68-8E33-E240D28719BD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\git_repo\ASP-NET-Core_Labs_17077\EComm.sql = ..\..\..\..\..\git_repo\ASP-NET-Core_Labs_17077\EComm.sql
+		..\..\..\..\..\git_repo\ASP-NET-Core_Labs_17077\Lab19.zip = ..\..\..\..\..\git_repo\ASP-NET-Core_Labs_17077\Lab19.zip
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
